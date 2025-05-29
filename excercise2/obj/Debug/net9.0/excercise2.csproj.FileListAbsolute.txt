@@ -1,0 +1,15 @@
+/Users/Philip/Documents/GitHub/Lexicon2/excercise2/bin/Debug/net9.0/excercise2
+/Users/Philip/Documents/GitHub/Lexicon2/excercise2/bin/Debug/net9.0/excercise2.deps.json
+/Users/Philip/Documents/GitHub/Lexicon2/excercise2/bin/Debug/net9.0/excercise2.runtimeconfig.json
+/Users/Philip/Documents/GitHub/Lexicon2/excercise2/bin/Debug/net9.0/excercise2.dll
+/Users/Philip/Documents/GitHub/Lexicon2/excercise2/bin/Debug/net9.0/excercise2.pdb
+/Users/Philip/Documents/GitHub/Lexicon2/excercise2/obj/Debug/net9.0/excercise2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Philip/Documents/GitHub/Lexicon2/excercise2/obj/Debug/net9.0/excercise2.AssemblyInfoInputs.cache
+/Users/Philip/Documents/GitHub/Lexicon2/excercise2/obj/Debug/net9.0/excercise2.AssemblyInfo.cs
+/Users/Philip/Documents/GitHub/Lexicon2/excercise2/obj/Debug/net9.0/excercise2.csproj.CoreCompileInputs.cache
+/Users/Philip/Documents/GitHub/Lexicon2/excercise2/obj/Debug/net9.0/excercise2.sourcelink.json
+/Users/Philip/Documents/GitHub/Lexicon2/excercise2/obj/Debug/net9.0/excercise2.dll
+/Users/Philip/Documents/GitHub/Lexicon2/excercise2/obj/Debug/net9.0/refint/excercise2.dll
+/Users/Philip/Documents/GitHub/Lexicon2/excercise2/obj/Debug/net9.0/excercise2.pdb
+/Users/Philip/Documents/GitHub/Lexicon2/excercise2/obj/Debug/net9.0/excercise2.genruntimeconfig.cache
+/Users/Philip/Documents/GitHub/Lexicon2/excercise2/obj/Debug/net9.0/ref/excercise2.dll
